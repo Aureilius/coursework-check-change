@@ -1,1 +1,2 @@
 # coursework-check-change
+The program will help you both check your coursework and make it according to all design standards. To run the program, go to the file and follow the instructions. Unfortunately, the program is not able to add images, so it is still worth double-checking the result of the work and making final edits for a better presentation of the work. Works in Russian as it is intended for Russian educational institutions
